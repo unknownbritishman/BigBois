@@ -9,4 +9,3 @@ please help they are coming and I can't stop them. here is how you will stop the
 
 
 
-You are not special...
