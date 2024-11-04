@@ -1,1 +1,3 @@
 please help they are coming and I can't stop them. here is how you will stop the takeover first you ta....
+
+I have an idea someone should make is so if you have negative bananas your clicks are divided by how much debt you have so there is a punishment for going into debt 
