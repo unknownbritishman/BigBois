@@ -1,0 +1,82 @@
+.banana p {
+ font-size: xx-large;
+ color: yellow;
+ text-shadow: 4px 4px 4px #333;
+}
+body {
+    background-color: green;
+}
+
+header {
+    color: yellow;
+ text-align: center;
+
+ text-shadow: 4px 4px 4px #333;
+
+}
+.banana button {
+    background-color: green;
+    border: none;
+}
+table {
+ color: yellow;
+}
+table button {
+    background-color: cyan;
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    
+}
+table button:hover {
+    background-color: rgb(0, 202, 202);
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+    
+}
+.container {
+    display: flex;
+    flex-direction: row; 
+}
+h2 {
+    color: yellow;
+    font-style: italic;
+    text-shadow: 4px 4px 4px #333;
+    
+}
+.table {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.page {
+    display: grid;
+  place-items: center;
+    
+}
+.upgrades {
+    text-align: center;
+ 
+    display: inline-block;
+    vertical-align: top;
+}
+.main {
+   
+    margin: 29px;
+    align-items: center; 
+}
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
