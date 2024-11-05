@@ -9,6 +9,9 @@ var level6 = 0;
 var level7 = 0;
 var level8 = 0;
 var level9 = 0;
+var level10 = 0;
+var level11 = 0;
+var level12 = 0;
 
 function onClick() {
 clicks += points
