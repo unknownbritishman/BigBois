@@ -99,7 +99,6 @@ function myFunction7() {
 }}
 function myFunction8() {
     if (clicks >= 500000) {
-        
     clicks -= 500000
     points += 100
     document.getElementById("clicks").innerHTML = clicks;
