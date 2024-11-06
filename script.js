@@ -133,7 +133,7 @@ function myFunction10() {
 function myFunction11() {
     if (clicks >= 5000000) {
     clicks -= 5000000
-    points += 750
+    points += 770
     document.getElementById("clicks").innerHTML = clicks;
     level9 += 1;
     document.getElementById("points").innerHTML = points;
@@ -144,7 +144,7 @@ function myFunction11() {
 function myFunction12() {
     if (clicks >= 10000000) {
     clicks -= 10000000
-    points += 1000
+    points += 10000
     document.getElementById("clicks").innerHTML = clicks;
     level9 += 1;
     document.getElementById("points").innerHTML = points;
@@ -153,5 +153,6 @@ function myFunction12() {
     alert("not enough banas")
 }}
 
+  
 
 
